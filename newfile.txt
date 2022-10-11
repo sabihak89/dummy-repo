@@ -1,0 +1,1 @@
+This is a new file to demo that the content of second branch is different from the main branch

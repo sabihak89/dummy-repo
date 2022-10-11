@@ -1,1 +1,0 @@
-This is a new file for demo purpose. It shows that the code in the second branch is different from the main branch
